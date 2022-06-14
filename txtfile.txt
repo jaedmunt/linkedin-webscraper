@@ -1,0 +1,3 @@
+userEmail = "julius.ingeli@gmail.com"
+userPass = "k_l?s3_8-5fswOæ"
+keywords = "data analyst"
